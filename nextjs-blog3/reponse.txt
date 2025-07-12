@@ -1,0 +1,5 @@
+Quelle contenue est pre-rendu ? 
+Le contenue qui est pre-rendu est le contenue avant toute modifications de use effect. ce qui est donc générer par le coté serveur
+
+Qu'est-ce qui n'apparaît pas dans le code source et pourquoi ?
+Le contenue qui n'apparait pas dans le code source est tout ce qui est modifier par le js et qui est modifier cotés client.
